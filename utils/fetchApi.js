@@ -1,5 +1,8 @@
 import axios from "axios";
 
+const MONGO_URL = process.env.MONGO_URL;
+
+
 export const baseUrl = 'https://bayut.p.rapidapi.com';
 
 export const fetchApi = async (url) => {
