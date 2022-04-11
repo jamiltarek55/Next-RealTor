@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const MONGO_URL = process.env.MONGO_URL;
+const NEXT_PUBLIC_RAPID_API_KEY = process.env.NEXT_PUBLIC_RAPID_API_KEY;
 
 
 export const baseUrl = 'https://bayut.p.rapidapi.com';
