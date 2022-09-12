@@ -36,5 +36,4 @@ const Property = ({ property: { coverPhoto, price, rentFrequency, rooms, title, 
     </Flex>
   </Link>
 );
-
 export default Property;
