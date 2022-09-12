@@ -5,5 +5,4 @@ const Footer = () => (
     © 2021 Tarek's Realtor, Inc.
   </Box>
 );
-
 export default Footer;
