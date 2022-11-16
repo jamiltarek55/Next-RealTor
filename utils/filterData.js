@@ -190,6 +190,5 @@ export const getFilterValues = (filterValues) => {
       value: categoryExternalID,
     },
   ];
-
   return values;
 };
